@@ -1,0 +1,19 @@
+.listItem {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  list-style-type: none;
+  background-color: green;
+  margin: 10px;
+  width: 80vw;
+  border-radius: 20px;
+}
+
+.header {
+  color: brown;
+  font-family: Roboto;
+}
+.span {
+  color: orangered;
+}
